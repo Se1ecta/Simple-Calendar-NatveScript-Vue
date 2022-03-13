@@ -8,6 +8,7 @@
   "dependencies": {
     "@nativescript/core": "^7.0.3",
     "@vue/devtools": "^5.3.3",
+    "date-fns": "^2.28.0",
     "nativescript-socketio": "^3.3.1",
     "nativescript-toasty": "^3.0.0-alpha.2",
     "nativescript-vue": "^2.8.1",
